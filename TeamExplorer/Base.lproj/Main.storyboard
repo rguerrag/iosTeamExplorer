@@ -16,7 +16,7 @@
                                 <rect key="frame" x="0.0" y="8" width="320" height="44"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                                 <items>
-                                    <navigationItem title="Visual Studio Online" id="ewS-2Q-KVN">
+                                    <navigationItem title="Visual Studio Online &lt;User&gt;" id="ewS-2Q-KVN">
                                         <barButtonItem key="rightBarButtonItem" title="Config" id="lyV-k9-CfF"/>
                                     </navigationItem>
                                 </items>
